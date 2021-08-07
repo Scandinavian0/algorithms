@@ -19,7 +19,8 @@ package alg.a_1_2_types;
  *
  ******************************************************************************/
 
-public class LeapYear { 
+public class LeapYear {
+    // test branch
     public static void main(String [] args) {
         int year = Integer.parseInt(args[0]);
         boolean isLeapYear;
